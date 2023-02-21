@@ -1,2 +1,2 @@
 # GestLarApp
-App del sito gestionale.manueldellagala.it(https://github.com/ManueldG/gestlar) tramite l'uso di gfgvolleyapicall 
+App del sito [Gestionale](gestionale.manueldellagala.it) [repository github del sito](https://github.com/ManueldG/gestlar) tramite l'uso di gfgvolleyapicall 
